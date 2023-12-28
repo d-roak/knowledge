@@ -1,6 +1,6 @@
 Hello and welcome to my public learning space!
 
-If your heart skips a beat for Distributed Systems, Security, Blockchains, or you find yourself drawn to the wonders of Low-level stuff and Random curiosities, then you've come to the right place. Make yourself at home!
+If your heart skips a beat for [[Distributed Systems]], [[Security]], [[Blockchains]], or you find yourself drawn to the wonders of Low-level stuff and Random curiosities, then you've come to the right place. Make yourself at home!
 
 Ready to explore? Pick a note at random or dive right into the graph. Who knows, you might just stumble upon something new and exciting!
 
