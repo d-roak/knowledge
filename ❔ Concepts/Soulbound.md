@@ -1,0 +1,1 @@
+https://vitalik.ca/general/2022/01/26/soulbound.html

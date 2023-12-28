@@ -1,0 +1,3 @@
+- [ns-3](https://www.nsnam.org/)
+- [SimGrid](https://simgrid.org/) - [docs](https://simgrid.org/doc/latest/index.html)
+- [PeerSim](https://peersim.sourceforge.net/)

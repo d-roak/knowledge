@@ -1,0 +1,6 @@
+
+## Polymorphism
+Polymorphism is a key principle in [[Knowledge/❔ Concepts/❔ Programming/❔ Object-Oriented Programming]] that allows methods to behave differently based on the object it's interacting with. Essentially, it permits a single method, function, or operator to process different types of objects in unique ways. This capability increases code reusability, flexibility, and the ability to handle complexity, contributing to the development of more maintainable and extendable software systems.
+
+## Inheritance
+Inheritance is a crucial feature in [[Knowledge/❔ Concepts/❔ Programming/❔ Object-Oriented Programming]] that allows one class to inherit properties and methods from another class. The class being inherited from is often referred to as the "parent" or "superclass," while the class that does the inheriting is the "child" or "subclass." Inheritance promotes code reusability, as common attributes and behaviors need not be rewritten for each related class. It also helps construct hierarchical class relationships, thus making the code easier to understand and maintain.
